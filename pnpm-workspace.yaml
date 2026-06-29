@@ -1,0 +1,9 @@
+allowBuilds:
+  electron: true
+  electron-winstaller: true
+  esbuild: true
+enablePrePostScripts: true
+ignoreScripts: false
+minimumReleaseAgeExclude:
+  - lucide-react@1.22.0
+  - postcss@8.5.16
